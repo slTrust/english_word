@@ -1,0 +1,159 @@
+/i:/ 【衣 发长点】
+/I/ 【衣 急促地发声】
+/e/ 【哎 发这个音的时候不要把“哎”的ī给读出来，嘴唇放松自然地读】
+/æ/ 【哎 发这个音的时候不要把“哎”的ī给读出来，嘴唇扁平地发】
+/ə:/ 【额 发长音】
+/ə/ 【额 发短音】
+/∧/ 【阿 嘴巴微微地张开发出这个音就可以了】
+/a:/ 【啊 嘴巴长到最大】
+/כ/ 【哦 急促】
+/כ:/ 【哦 声音拖长】
+/u/ 【乌 急促】
+/u:/ 【乌 声音拖长】
+/eI/ 【有点像答应人的“诶”的声音】
+/aI/ 【唉】
+/כI/ 【哦－喂 连着读】
+/əu/ 【呕】
+/au/ 【傲】
+/Iə/ 【衣－饿 连着读】
+/εə/ 【哎－饿 连着读】
+/uə/ 【乌－饿 连着读】辅音音素：
+
+拼音单韵母：ɑ o e i u
+英语长元音：ɑ: ɔ: ɜ: i: u:
+英语短元音：ʌ ɒ ə ɪ ʊ æ（大口） e（小口）
+阿 奥 鹅 衣 乌 哀 哀
+
+前元音 
+/i:/ feel  / sleep / eat / key / tea
+/i/ sit / kiss / hill  / kick
+/e/ get / egg / let
+/æ/   chat / package / have / apple / bad  / cat
+
+中
+/ɜ:/ skirt / work / shirt
+/ə/ teacher / fatter
+
+后
+/ɑ:/ ask / park  / last / class
+/ʌ/ bus / cut / gut 
+/ɔ:/ dorm / floor / four / small
+/ɒ/  pot / Bob / lot 
+/u:/ lose / blue / dude / food
+/ʊ/  put / cook / foot
+
+双元音 8个
+/ai/ fly / spy / life / spiderman
+/ei/ way /  baby / lake / late /
+/aʊ/ mouse / house / cow / blouse
+/əʊ/ hold / gold / cold / pause
+/ɔi/ boy / coin / toy / noise
+/iə/ year / tear / ear / clear / hear
+/eə/ repair / hair / pear/ fair / pair
+/ʊə/ sure / lure / pure
+
+
+-------------------------
+辅音
+成对辅音   清音 / 浊音
+p / b  peak / beat
+/p/ 【普 ，轻音】 po 破
+/b/ 【不 ，浊音】 bo 波
+
+t / d tea / indeed 
+/t/ 【特 ，轻音】
+/d/ 【得 ，浊音】
+
+k / g kettle / guess
+/k/ 【克 ，轻音】  
+/g/ 【各 ，浊音】
+
+ts / dz its / goods  
+/ts/ 【轻音】ci 次
+/dz/ 【浊音】zi 滋
+
+tr/ dr control / drama 
+/tr/ 【轻音】chuo 戳
+/dr/ 【浊音】zhuo 桌
+
+t∫/ dʒ chip / journey  
+/t∫/ 【轻音】chi （舌尖抵住上齿“吃”）
+/dʒ/ 【浊音】zhi （舌尖抵住上齿“织”）
+
+f / v flow / vote
+/f/ 【福 ，轻音】fu
+/v/ 【浊音】vu
+
+θ / ð thick / this
+这俩的发音有点类似于/s/ /z/的发音，唯一的区别是θ ð需要咬住舌尖来发音
+/θ/ 【牙齿咬住舌头的轻音】si 斯
+/ð/ 【牙齿咬住舌头的浊音】zi 资
+
+s / z soup / zoo
+/s/ 【丝 像蛇吐芯子发出的那种声音，不要把ī给读出来，轻音】丝
+/z/ 【就是/s/的浊音】 资
+
+∫/ ʒ Chicago / leisure
+/∫/ 【西 不要把ī给发出来，轻音】 shi 失
+/ʒ/ 【衣 不要把ī给发出来，浊音】 ri  日
+
+
+
+
+鼻音 浊辅音
+开头的时候  m ->  mo / n -> ne
+/m/ 【嘴巴闭住，然后发音，气流从鼻子出来，浊音】
+m map / mom
+
+/n/ 【嘴巴微张，舌尖顶住上颚，气流从鼻子出来而不是从嘴巴出来，浊音】
+n nouse / fun 
+ 
+/ŋ/ 【嘴巴长大，舌头向下弯曲，气流从鼻子出来而不是从嘴巴出来，浊音】eng
+hang / song 
+
+半元音
+/w/  what / where / wine / wow
+/w/ 【浊音】窝
+
+/j/  yet / yes / yeah / year
+/j/ 【浊音】ye 椰
+
+其他辅音
+
+/h/ hurt / him / her / house
+/h/ 【喝 不要把ē给发出来，轻音】
+/r/ running / rose / road 
+/r/ 【若 不要把uò给发出来，浊音】
+
+舌则音
+/l/ 【有两个读音。一是放在音标结尾发呕，浊音；而是放在音标Q发了，浊音】le 了 / o 窝
+前面 leave / load / life / love
+后面 girl / ball / doll / google
+
+
+
+-- 清辅音浊化
+https://baijiahao.baidu.com/s?id=1635051653203366155&wfr=spider&for=pc
+/p/→/b/，/t/→/d/，/k/→/g/
+
+1.浊化的规则：S后的清辅音（surd）在重读时要读成其相对的浊辅音（sonant），例如student，如果S后跟的清辅音不重读，如district，则依然读成清辅音。
+2.当/p/ /t/ /k/在两个元音（注意，是元音不是元音字母）中间时，发音时候，需要浊化。 
+例如：open，音标为/oup*n/ ， *表示我打字打不出来的那个音标，是个元音啦，这个时候，/p/就要浊化为/b/发音时候发/oub*n/。 其他两个也是同样道理，在两元音之间清辅音浊化。
+3. 清辅音浊化只是一种发音现象，不是规则。
+总的发音规则只有一条：按照字典里的注音读，要怎么变化就按地道英语的习惯。
+4. S 后面的清辅音被浊化，只是清辅音浊化的一小部分，很多时候不用加 S 也可能被浊化。 如water, happy, meeting, walking等等
+5. 也有例外的，不要说它不符合规则，因为本来就没有规则，硬要定规则的话就行不通。）
+
+-- 失去爆破
+
+/p/, /b/, /t/, /d/, /k/, /g/是6个爆破音
+1. /p/, /b/, /t/, /d/, /k/, /g/这6个爆破音中的任何两个音素相邻时,前者不发音，只保留口型,后者发音。如:
+1) He has a ba(d) col(d) today.
+2) You shoul(d) ta(k)e care of the children. Gla(d) to meet you.
+2.爆破音/p/, /b/, /t/, /d/, /k/, /g/在/tF/, /dV/, /W/, /T/的前面时不完全爆破。如:
+1) Have you rea(d) the book abou(t) tha(t) child。
+2) The thir(d) chair is broken.
+3.爆破音/p/, /b/, /t/, /d/, /k/, /g/在/m/, /n/, /l/, /s/的前面时不完全爆破。如:
+1) Goo(d) morning, sir.
+2) Goo(d) night.
+3) They are very frien(d)ly to us.
